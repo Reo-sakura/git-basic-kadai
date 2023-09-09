@@ -5,8 +5,6 @@ xtを追加"
  1 file changed, 1 insertion(+)
  create mode 100644 hello_world.txt
 tsuchiyamao@tsuchiyamaonoMacBook-Air git_challenge % git add /Users/tsuchiyamao/git_challenge/hello_world.txt
-tsuchiyamao@tsuchiyamaonoMacBook-Air git_challenge % git log --oneline
-3365883 (HEAD -> main) hello_world.txtを追加
 tsuchiyamao@tsuchiyamaonoMacBook-Air git_challenge % git commit -m "日本語訳を追 記"
 [main 2573d81] 日本語訳を追記
  1 file changed, 2 insertions(+), 1 deletion(-)
